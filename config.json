@@ -1,0 +1,18 @@
+{
+  "panels": {
+    "mihomo": [
+      {
+        "url": "https://v2.demianred.com",
+        "description": "DR"
+      }
+    ]
+  },
+  "onlineSupport": [
+    {
+      "url": "https://chat.example.com",
+      "description": "在线客服",
+      "apiBaseUrl": "https://chat.example.com",
+      "wsBaseUrl": "wss://chat.example.com"
+    }
+  ]
+}
