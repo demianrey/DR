@@ -2,7 +2,7 @@
   "panels": {
     "mihomo": [
       {
-        "url": "https://v2.demianred.com",
+        "url": "https://xboard.demianred.com",
         "description": "DR"
       }
     ]
@@ -15,4 +15,5 @@
       "wsBaseUrl": "wss://chat.example.com"
     }
   ]
+
 }
